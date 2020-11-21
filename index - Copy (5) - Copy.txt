@@ -1,6 +1,0 @@
-Hello : not
-Hello : manott
-
-M :Test1
------------------------------
-Foot
